@@ -1,0 +1,11 @@
+HELP.md
+*.build
+!**/src/main/**
+!**/src/test/**
+*.iws
+*.iml
+*.ipr
+.idea
+.allure
+.gradle
+*.loggi
